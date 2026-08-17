@@ -1,0 +1,102 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_portrait_CHI_chiang_kaishek"
+		texturefile = "gfx/leaders/CHI/Portrait_China_Chiang_Kai_Shek.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_prc_mao_zedong_military"
+		texturefile = "gfx/leaders/CHI/portrait_prc_mao_zedong_military.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_PRC_mao_zedong_small_military"
+		texturefile = "gfx/interface/idea/idea_PRC_mao_zedong_military.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_prc_mao_zedong"
+		texturefile = "gfx/leaders/CHI/portrait_prc_mao_zedong.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_PRC_mao_zedong_small"
+		texturefile = "gfx/interface/idea/idea_PRC_mao_zedong.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_PRC_nick_feng"
+		texturefile = "gfx/leaders/CHI/portrait_prc_nick_feng.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_PRC_nick_feng_small"
+		texturefile = "gfx/interface/idea/idea_PRC_nick_feng.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_JAP_hitoshi_imamura"
+		texturefile = "gfx/leaders/JAP/Portrait_Japan_Hitoshi_Imamura.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_hitoshi_imamura"
+		texturefile = "gfx/interface/idea/idea_JAP_hitoshi_imamura.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_JAP_isoroku_yamamoto"
+		texturefile = "gfx/leaders/JAP/Portrait_Japan_Isoroku_Yamamoto.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_isoroku_yamamoto"
+		texturefile = "gfx/interface/idea/idea_JAP_isoroku_yamamoto.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_tur_ismet_inonu"
+		texturefile = "gfx/interface/idea/idea_tur_ismet_inonu.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_iraq_ghazi"
+		texturefile = "gfx/leaders/IRQ/portrait_irq_ghazi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_iraq_rashid_al_gaylani"
+		texturefile = "gfx/leaders/IRQ/portrait_irq_rashid_al_gaylani.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Abdulaziz_Ibn_Saud"
+		texturefile = "gfx/leaders/SAU/Portrait_Saudi_Arabia_Abdulazis_Ibn_Saud.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_georgy_zhukov"
+		texturefile = "gfx/leaders/SOV/Portrait_Soviet_Gregory_Zhukov.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_georgy_zhukov"
+		texturefile = "gfx/interface/idea/idea_SOV_gregory_zhukov.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_arthur_harris"
+		texturefile = "gfx/interface/idea/idea_arthur_harris.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_Reza_Shah_Pahlavi"
+		texturefile = "gfx/leaders/PER/Portrait_Iran_Reza_Shah_Pahlavi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_GER_ernsteberhard_hell"
+		texturefile = "gfx/leaders/GER/Portrait_Germany_Ernst-Eberhard_Hell.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_GER_ernsteberhard_hell_small"
+		texturefile = "gfx/interface/idea/idea_GER_ernst-eberhard_hell.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_FRA_charles_de_gaulle"
+		texturefile = "gfx/leaders/FRA/Portrait_France_Charles_De_Gaulle.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_charles_de_gaulle"
+		texturefile = "gfx/interface/idea/idea_fra_charles_de_gaulle.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_SOV_mikhail_tukhachevsky"
+		texturefile = "gfx/leaders/SOV/Portrait_Soviet_Mikhail_Tukhachevsky.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_mikhail_tukhachevsky"
+		texturefile = "gfx/interface/idea/idea_SOV_mikhail_tukhachevsky.dds"
+	}
+}
